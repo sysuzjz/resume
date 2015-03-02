@@ -10,7 +10,17 @@
 > **博客地址**：blog.csdn.net/sysuzjz  
 > **github地址**：sysuzjz.github.io
 
+----------
+
 # 获得奖项及语言能力 #
 * 2013.12 中山大学“百田杯”软件创新大赛一等奖、唯品会特等奖
-* 四级533，六级449
+* 四级533，六级449 
+
+----------
+# 项目经历 #
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
